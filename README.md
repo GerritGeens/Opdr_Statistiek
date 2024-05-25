@@ -44,9 +44,18 @@
    open the (only) notebook in this folder 
    ```
 
+
 ## Note
 
-No note
+Project structure 
+  - /cars 
+	/data (contains the base dataset with the info on the sales of 2nd hand cars)µ
+	/notebooks (contains the main notebook)
+	/packages (constains the constants & function packages) 
+  - /productie 
+	/data (contains the production data, json files)
+	/notebooks (contains the main notebook, i left functions in this notebook since they are so related) 
+
 
 ## Contact
 
